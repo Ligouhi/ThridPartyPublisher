@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name" translatable="false">第三方推流</string>
+    <string name="tab_menu_home">首页</string>
+    <string name="tab_menu_liveroom">直播间</string>
+    <string name="tab_menu_user">我的</string>
+
+    <string name="detach_note">Note</string>
+    <string name="camera_detached_message">Camera Detached</string>
+    <string name="record_error_message">Some Error Occured While Pushing Live Stream or Recording</string>
+    <string name="permission_lost_dialog_title">Permission Required</string>
+    <string name="permission_lost_dialog_message">Must grant app to access external storage and audio recorder</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="start_streaming">Start Camera Stream</string>
+    <string name="live_push">Push</string>
+    <string name="live_addr">Live Addr/Record File</string>
+    <string name="camera_not_attached">Camera not attached!</string>
+    <string name="camera_error">Camera Error</string>
+
+    <!--    insta 360-->
+    <string name="str_open">Open</string>
+    <string name="str_take_photo">Take Photo</string>
+    <string name="str_record">Record</string>
+    <string name="str_play">Play</string>
+    <string name="str_close">Close</string>
+    <string name="str_msg_record_complete">Record Complete</string>
+    <string name="str_record_stop">Stop Record</string>
+    <string name="PermissionLostDialogTitle">Permission Lost</string>
+    <string name="PermissionLostDialogMessage">Require to grant permission to access external storage</string>
+    <string name="str_record_stopping">Stopping</string>
+    <string name="AtomPanoramic">AtomPanoramic</string>
+    <string name="AtomPlane">One Demo</string>
+    <string name="str_msg_takephoto_complete">Take photo complete</string>
+    <string name="str_msg_get_info_failed">Failed read data from camera</string>
+    <string name="str_msg_set_info_failed">Failed write data to camera</string>
+    <string name="str_msg_set_info_success">write data to camera success</string>
+    <string name="str_read_camera_info_exception">Failed read stitching data from camera</string>
+    <string name="str_no_camera_info">No stitching data in camera</string>
+    <string name="str_camera_info_offset_invalid">Stitching data invalid</string>
+
+    <string name="filter_none">Original</string>
+    <string name="filter_amaro">Amaro</string>
+    <string name="filter_brannan">Brannan</string>
+    <string name="filter_brooklyn">Brooklyn</string>
+    <string name="filter_Earlybird">EarlyBird</string>
+    <string name="filter_freud">Freud</string>
+    <string name="filter_hefe">Hefe</string>
+    <string name="filter_hudson">Hudson</string>
+    <string name="filter_inkwell">Inkwell</string>
+    <string name="filter_kevin">Kevin</string>
+    <string name="filter_lockup">Lockup</string>
+    <string name="filter_lomo">Lomo</string>
+    <string name="filter_n1977">1977</string>
+    <string name="filter_nashville">Nashville</string>
+    <string name="filter_pixar">Pixar</string>
+    <string name="filter_rise">Rise</string>
+    <string name="filter_sierra">Sierra</string>
+    <string name="filter_sutro">Sutro</string>
+    <string name="filter_toastero">Toaster2</string>
+    <string name="filter_valencia">Valencia</string>
+    <string name="filter_walden">Walden</string>
+    <string name="filter_xproii">XproII</string>
+    <string name="filter_whitecat">WhiteCat</string>
+    <string name="filter_blackcat">BlackCat</string>
+    <string name="filter_romance">Romance</string>
+    <string name="filter_sakura">Sakura</string>
+    <string name="filter_antique">Antique</string>
+    <string name="filter_beauty">Beauty</string>
+    <string name="filter_calm">Calm</string>
+    <string name="filter_cool">Cool</string>
+    <string name="filter_emerald">Emerald</string>
+    <string name="filter_evergreen">Evergreen</string>
+    <string name="filter_fairytale">Fairytale</string>
+    <string name="filter_healthy">Healthy</string>
+    <string name="filter_latte">Latte</string>
+    <string name="filter_nostalgia">Nostalgia</string>
+    <string name="filter_tender">Tender</string>
+    <string name="filter_warm">Warm</string>
+    <string name="filter_sweets">Sweets</string>
+    <string name="filter_sunrise">Sunrise</string>
+    <string name="filter_sunset">Sunset</string>
+    <string name="filter_skinwhiten">SkinWhiten</string>
+    <string name="filter_crayon">Crayon</string>
+    <string name="filter_sketch">Sketch</string>
+    <string name="publish">publish</string>
+</resources>
